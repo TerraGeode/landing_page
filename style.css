@@ -3,7 +3,7 @@
 }
 
 #section-one {
-    height: 400px;
+    height: 450px;
 }
 
 .flex-container {
@@ -26,4 +26,8 @@
 
 .inline {
     display: inline;
+}
+
+#section-two {
+    height: 400px;
 }
