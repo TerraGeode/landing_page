@@ -1,5 +1,6 @@
 * {
     outline: 1px solid red;
+    font-family: "Roboto", sans-serif;
 }
 
 #hero {
@@ -52,4 +53,15 @@ footer {
 
 button {
     background-color: #3882F6;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+#hero p {
+    font-size: 18px;
+    color: #E5E7EB;
 }
