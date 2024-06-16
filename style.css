@@ -2,8 +2,9 @@
     outline: 1px solid red;
 }
 
-#section-one {
+#hero {
     height: 450px;
+    background-color: #1f2937;
 }
 
 .flex-container {
@@ -32,10 +33,23 @@
     height: 400px;
 }
 
-#section-three {
+#quote {
     height: 400px;
+    background-color: #E5E7EB;
 }
 
 #section-four {
     height: 350px;
+}
+
+footer {
+    background-color: #1f2937;
+}
+
+#call-to-action {
+    background-color: #3882F6;
+}
+
+button {
+    background-color: #3882F6;
 }
