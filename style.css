@@ -54,6 +54,7 @@ footer {
 
 #foot {
     color: #F9FAF8;
+    text-align: center;
 }
 
 #call-to-action, #call-to-action p {
@@ -61,11 +62,18 @@ footer {
     color: #F9FAF8;
 }
 
+#call-to-action button {
+    border: 3px solid #E5E7EB;
+}
+
 button {
     background-color: #3882F6;
     color: #F9FAF8;
     font-weight: bold;
     font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
 }
 
 h1 {
