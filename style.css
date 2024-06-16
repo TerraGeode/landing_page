@@ -1,6 +1,11 @@
 * {
-    outline: 1px solid red;
+    outline: 1px solid #3882F6;
     font-family: "Roboto", sans-serif;
+}
+
+p {
+    color: #1F2397;
+    font-size: 18px;
 }
 
 #hero {
@@ -47,12 +52,20 @@ footer {
     background-color: #1f2937;
 }
 
-#call-to-action {
+#foot {
+    color: #F9FAF8;
+}
+
+#call-to-action, #call-to-action p {
     background-color: #3882F6;
+    color: #F9FAF8;
 }
 
 button {
     background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 18px;
 }
 
 h1 {
@@ -61,7 +74,28 @@ h1 {
     color: #F9FAF8;
 }
 
-#hero p {
+#hero p, #hero a {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+#hero h3 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+#section-two h3 {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+#word {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+#speak  {
+    font-weight: bold;
 }
