@@ -1,3 +1,29 @@
 * {
     outline: 1px solid red;
 }
+
+#section-one {
+    height: 400px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container div {
+    flex: 1;
+}
+
+.flex-c {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-c div, .flex-c header {
+    height: auto;
+    flex: 1 1 auto;
+}
+
+.inline {
+    display: inline;
+}
