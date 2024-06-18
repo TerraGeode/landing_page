@@ -107,3 +107,13 @@ h1 {
 #speak  {
     font-weight: bold;
 }
+
+#hero header, #hero div {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+#hero header {
+    display: flex;
+}
