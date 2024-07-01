@@ -117,3 +117,13 @@ h1 {
 #hero header {
     display: flex;
 }
+
+#not-image {
+    width: 500px;
+    height: 200px;
+    background-color: #888888;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
