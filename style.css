@@ -127,3 +127,12 @@ h1 {
     align-items: center;
     justify-content: center;
 }
+
+.h-link {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.h-link a {
+    margin-left: 5px;
+}
